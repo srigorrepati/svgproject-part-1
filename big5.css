@@ -1,0 +1,30 @@
+body{
+    font-family: Calibri;
+}
+.ylabel{
+    font-size: 25pt;
+    fill: gray;
+    font-weight: bold;
+    text-anchor: end;
+}
+.bar{
+    fill: #1e99e7;
+    opacity: 0.7;
+    text-anchor: middle;
+}
+.percentage{
+    fill: #1e99e7;
+    font-weight: bold;
+    font-size: 15pt;
+    text-anchor: middle;
+}
+
+line{
+    stroke:#aaa;
+}
+.xlabel{
+    fill: #aaa;
+    font-size: 14pt;
+    text-anchor: middle;
+}
+
